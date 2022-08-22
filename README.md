@@ -26,6 +26,7 @@ Things you should know...as part of your program:
 6) Use modular design, separating the .h files from the .cpp files.  7) Use the iostream library for all I/O; do not use stdio.h. 
 8) Make sure to define a constructor and destructor for your class. Your  destructor must deallocate all dynamically allocated memory.
 
+---------------------------------------------------------------
 
 EFFICIENCY WRITE UP
 
